@@ -1,3 +1,3 @@
-n=10
-string="Hello World "
-print(string * n)  #Hello World Hello World Hello World Hello World Hello World
+n=13
+string="I LOVE WORLD "
+print(string * n)  #I LOVE WORLD 
